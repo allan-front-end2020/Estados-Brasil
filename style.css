@@ -1,0 +1,70 @@
+.card {
+    width: 300px;
+    height: 150px;
+    border: solid 2px black;
+    margin-bottom: 25px;
+    float: left;
+    margin-left: 102px;
+}
+
+.img {
+    width: 121px;
+    height: 77px;
+    border: solid 2px black;
+    margin: 0;
+    display: inline-block;
+    float: left;
+    margin-left: 12px;
+}
+
+.img-rs {
+    width: 121px;
+    height: 77px;
+}
+
+.img-sc {
+    width: 121px;
+    height: 77px;
+}
+
+.img-sp {
+    width: 121px;
+    height: 77px;
+}
+
+.img-pr {
+    width: 121px;
+    height: 77px;
+}
+
+h6 {
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 17px;
+}
+
+.linha-1 {
+    float: left;
+}
+
+p {
+    display: inline-block;
+    margin: 0;
+    font-size: 13px;
+}
+
+.bloco {
+    width: 121px;
+    height: 77px;
+    margin: 0;
+    display: inline-block;
+    float: left;
+    margin-left: 12px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 91px;
+}
